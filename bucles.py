@@ -36,3 +36,9 @@ numero = int(input("pon un numero")) #pon aquí el número del que quieres hacer
 print("tabla de multiplicar del", numero)
 for i in range(10):
     print(numero,"por",i,"=",numero*i)
+while condition:
+    cuerpo del bucle
+    while i <= 3:
+    print(i)
+    i += 1
+print("Programa terminado")
